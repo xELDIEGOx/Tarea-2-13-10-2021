@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\EJERCICIO_4_T2\EJERCICIO_4_T2\bin\Debug\EJERCICIO_4_T2.exe.config
+C:\Users\USER\source\repos\EJERCICIO_4_T2\EJERCICIO_4_T2\bin\Debug\EJERCICIO_4_T2.exe
+C:\Users\USER\source\repos\EJERCICIO_4_T2\EJERCICIO_4_T2\bin\Debug\EJERCICIO_4_T2.pdb
+C:\Users\USER\source\repos\EJERCICIO_4_T2\EJERCICIO_4_T2\obj\Debug\EJERCICIO_4_T2.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\EJERCICIO_4_T2\EJERCICIO_4_T2\obj\Debug\EJERCICIO_4_T2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EJERCICIO_4_T2\EJERCICIO_4_T2\obj\Debug\EJERCICIO_4_T2.exe
+C:\Users\USER\source\repos\EJERCICIO_4_T2\EJERCICIO_4_T2\obj\Debug\EJERCICIO_4_T2.pdb

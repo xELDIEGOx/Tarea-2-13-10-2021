@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\EJERCICIO 3-T3\EJERCICIO 3-T3\bin\Debug\EJERCICIO 3-T3.exe.config
+C:\Users\USER\source\repos\EJERCICIO 3-T3\EJERCICIO 3-T3\bin\Debug\EJERCICIO 3-T3.exe
+C:\Users\USER\source\repos\EJERCICIO 3-T3\EJERCICIO 3-T3\bin\Debug\EJERCICIO 3-T3.pdb
+C:\Users\USER\source\repos\EJERCICIO 3-T3\EJERCICIO 3-T3\obj\Debug\EJERCICIO 3-T3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EJERCICIO 3-T3\EJERCICIO 3-T3\obj\Debug\EJERCICIO 3-T3.exe
+C:\Users\USER\source\repos\EJERCICIO 3-T3\EJERCICIO 3-T3\obj\Debug\EJERCICIO 3-T3.pdb
